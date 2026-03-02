@@ -49,9 +49,6 @@ Client → Nginx → Log Files → Filebeat → Elasticsearch → Kibana
 ├── filebeat/\
 │ ├── Dockerfile\
 │ └── filebeat.yml\
-├── elasticsearch/\
-└── kibana/
-
 ------------------------------------------------------------------------
 
 ## Prerequisites
