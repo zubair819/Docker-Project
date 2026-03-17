@@ -78,7 +78,7 @@ cd `<your-project-folder>`{=html}
 
 ### 2. Build and start the services
 
-docker-compose up -d --build
+docker compose up -d --build
 
 This command builds the images, creates the required network and volume,
 and starts all containers in the background.
